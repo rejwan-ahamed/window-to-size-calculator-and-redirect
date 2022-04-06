@@ -1,0 +1,15 @@
+.attr {}
+
+.cer {
+    border: 1px solid blue;
+    background-color: rgb(116, 116, 235);
+    color: white;
+}
+.cerds {
+    border: 1px solid rgb(46, 46, 22);
+    background-color: rgb(245, 231, 109);
+    color: rgb(0, 0, 0);
+}
+.cer{
+    padding:  2rem;
+}
